@@ -1,2 +1,2 @@
-# http_jsonrpc
-based on muduo
+# MyJsonrpc
+练习项目
